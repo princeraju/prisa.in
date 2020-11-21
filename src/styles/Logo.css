@@ -1,0 +1,23 @@
+
+.prisa-logo-heart {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 10s linear 0.5s forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+.prisa-logo-text, .prisa-logo-heart-left-thickness{
+  opacity: 0;
+  animation: showlogotext 1.9s linear 2.3s forwards;
+}
+
+@keyframes showlogotext {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+} 
