@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.41a3c2c8.chunk.css",
-    "main.js": "/static/js/main.de12d25b.chunk.js",
-    "main.js.map": "/static/js/main.de12d25b.chunk.js.map",
+    "main.css": "/static/css/main.9c42f284.chunk.css",
+    "main.js": "/static/js/main.e171cc21.chunk.js",
+    "main.js.map": "/static/js/main.e171cc21.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b81616d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b81616d6.js.map",
     "static/js/2.75a3a4c3.chunk.js": "/static/js/2.75a3a4c3.chunk.js",
@@ -10,9 +10,8 @@
     "static/js/3.4e131762.chunk.js": "/static/js/3.4e131762.chunk.js",
     "static/js/3.4e131762.chunk.js.map": "/static/js/3.4e131762.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.41a3c2c8.chunk.css.map": "/static/css/main.41a3c2c8.chunk.css.map",
+    "static/css/main.9c42f284.chunk.css.map": "/static/css/main.9c42f284.chunk.css.map",
     "static/js/2.75a3a4c3.chunk.js.LICENSE.txt": "/static/js/2.75a3a4c3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/back_ios.7c47b771.png",
     "static/media/balloon-with-us.1bb0d437.png": "/static/media/balloon-with-us.1bb0d437.png",
     "static/media/balloon.9b91b11d.png": "/static/media/balloon.9b91b11d.png",
     "static/media/p_and_e.ed405800.png": "/static/media/p_and_e.ed405800.png"
@@ -20,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b81616d6.js",
     "static/js/2.75a3a4c3.chunk.js",
-    "static/css/main.41a3c2c8.chunk.css",
-    "static/js/main.de12d25b.chunk.js"
+    "static/css/main.9c42f284.chunk.css",
+    "static/js/main.e171cc21.chunk.js"
   ]
 }
